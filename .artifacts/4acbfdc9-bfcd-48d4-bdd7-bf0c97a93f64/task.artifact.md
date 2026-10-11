@@ -1,0 +1,9 @@
+- `[x]` Create Message entity
+- `[x]` Update SkillSwapDao and SkillSwapDatabase (version 3) for Message entity
+- `[x]` Update SkillSwapRepository with message methods
+- `[x]` Update SkillSwapViewModel with sendMessage and message observation
+- `[x]` Update ProfileScreen with gallery image picker (`ActivityResultContracts.GetContent()`) and Coil/AsyncImage support
+- `[x]` Update SwapRequestsScreen to include a "Chat" button for accepted requests
+- `[x]` Create ChatScreen with WhatsApp-style UI (message bubbles, input bar, auto-scroll)
+- `[x]` Update MainActivity NavHost to support ChatScreen route
+- `[x]` Build and verify project build successfully
